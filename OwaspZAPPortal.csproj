@@ -6,6 +6,7 @@
 
   <ItemGroup>
     <PackageReference Include="OWASPZAPDotNetAPI" Version="2.8.0" />
+    <PackageReference Include="OwaspHeaders.Core" Version="4.2.0" />    
   </ItemGroup>
 
 </Project>
